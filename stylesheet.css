@@ -3,7 +3,7 @@ body {
 }
 .container {
 	background-color: LightSteelBlue;
-	height: 1301px;
+	height: 100%;
 	width: auto;
 }
 #responseField {
@@ -22,6 +22,7 @@ body {
 	color: white;
 	font-size: 24px;
 	font-family: Work Sans, sans-serif;
+	padding-bottom: 60px;
 }
 #tempHeader {
 	text-align: center;
