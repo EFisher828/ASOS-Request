@@ -3,7 +3,7 @@ body {
 }
 .container {
 	background-color: LightSteelBlue;
-	height: 800px;
+	height: 100%;
 	width: auto;
 }
 #responseField {
